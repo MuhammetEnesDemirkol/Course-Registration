@@ -1,0 +1,84 @@
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\Ders_Kayıt_Sistemi.exe.config
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\Ders_Kayıt_Sistemi.exe
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\Ders_Kayıt_Sistemi.pdb
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.ogrenciEklemeEkrani.resources
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.csproj.CopyComplete
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.exe
+C:\Users\User\Desktop\Yazılım\Proje\Devam Eden Projeler\DERSİS\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.pdb
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\Ders_Kayıt_Sistemi.exe.config
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\Ders_Kayıt_Sistemi.exe
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\Ders_Kayıt_Sistemi.pdb
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.ogrenciEklemeEkrani.resources
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.csproj.CopyComplete
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.exe
+C:\Users\User\Desktop\Ders Kayıt\Ders_Kayıt_Sistemi\obj\Debug\Ders_Kayıt_Sistemi.pdb
